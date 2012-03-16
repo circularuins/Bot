@@ -1,0 +1,5 @@
+<!-- root/answer.tt -->
+
+<h1>答え</h1>
+
+<p>[% answer | html %]</p>

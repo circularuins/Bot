@@ -1,0 +1,8 @@
+<!-- root/index.tt -->
+
+<h1>Bot</h1>
+
+<form action="[% c.uri_for('/aida') %]" method="get">
+      <input type="text" name="word" />
+      <input type="submit" value="話す" />
+</form>
